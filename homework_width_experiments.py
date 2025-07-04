@@ -1,5 +1,3 @@
-# homework_width_experiments.py
-
 import time
 import logging
 from typing import List, Tuple, Dict, Optional
